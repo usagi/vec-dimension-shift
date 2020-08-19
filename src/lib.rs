@@ -11,7 +11,7 @@
 //!
 //! Note: vec-dimension-shift crate use an unsafe features in the internal details. As an alternative, [dimension_shift_buffer][] is available if you want a more flexible runtime dimension shifting or safe-only implementation.
 //!
-//! [dimension_shift_buffer]:
+//! [dimension_shift_buffer]: https://crates.io/crates/dimension_shiftable_buffer
 //!
 //! ## What's the "dimension shift"?
 //!

@@ -7,7 +7,7 @@ keywords = ["dimension", "shiftable", "buffer", "valarray", "slice"]
 license = "MIT"
 name = "vec-dimension-shift"
 repository = "https://github.com/usagi/vec-dimension-shift"
-version = "1.0.0"
+version = "1.0.1"
 
 [features]
 d10 = []
