@@ -1,0 +1,31 @@
+[package]
+authors = ["USAGI.NETWORK / Usagi Ito <the@usagi.network>"]
+categories = ["data-structures"]
+description = "N-Dimension shift features for Vec<T>"
+edition = "2018"
+keywords = ["dimension", "shiftable", "buffer", "valarray", "slice"]
+license = "MIT"
+name = "vec-dimension-shift"
+repository = "https://github.com/usagi/vec-dimension-shift"
+version = "1.0.0"
+
+[features]
+d10 = []
+d11 = []
+d12 = []
+d13 = []
+d14 = []
+d15 = []
+d16 = []
+d2 = []
+d3 = []
+d4 = []
+d5 = []
+d6 = []
+d7 = []
+d8 = []
+d9 = []
+default = ["d2", "d3", "d4"]
+
+[dependencies]
+thiserror = "1.0.20"
